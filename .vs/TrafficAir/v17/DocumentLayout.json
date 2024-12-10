@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\TrafficAir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:TrafficAir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionMediano.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:AvionMediano.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionMediano.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:AvionMediano.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionChico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:AvionChico.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\VehiculoAereo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:VehiculoAereo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\VehiculoAereo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:VehiculoAereo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\TrafficAir.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:TrafficAir.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Terminal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:Terminal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionChico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:AvionChico.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Terminal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:Terminal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\InformacionAvion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:InformacionAvion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BB9821-01B4-401F-BA15-5AF5FE44DE8A}|TrafficAir.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvionMediano.cpp",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionMediano.cpp",
+              "RelativeDocumentMoniker": "AvionMediano.cpp",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionMediano.cpp",
+              "RelativeToolTip": "AvionMediano.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T14:18:49.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AvionMediano.h",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionMediano.h",
+              "RelativeDocumentMoniker": "AvionMediano.h",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionMediano.h",
+              "RelativeToolTip": "AvionMediano.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T14:17:48.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AvionChico.cpp",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionChico.cpp",
+              "RelativeDocumentMoniker": "AvionChico.cpp",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionChico.cpp",
+              "RelativeToolTip": "AvionChico.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T03:31:24.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AvionChico.h",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionChico.h",
+              "RelativeDocumentMoniker": "AvionChico.h",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\AvionChico.h",
+              "RelativeToolTip": "AvionChico.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T03:26:35.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrafficAir.cpp",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\TrafficAir.cpp",
+              "RelativeDocumentMoniker": "TrafficAir.cpp",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\TrafficAir.cpp",
+              "RelativeToolTip": "TrafficAir.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T07:11:41.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrafficAir.h",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\TrafficAir.h",
+              "RelativeDocumentMoniker": "TrafficAir.h",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\TrafficAir.h",
+              "RelativeToolTip": "TrafficAir.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T07:09:53.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehiculoAereo.h",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\VehiculoAereo.h",
+              "RelativeDocumentMoniker": "VehiculoAereo.h",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\VehiculoAereo.h",
+              "RelativeToolTip": "VehiculoAereo.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T02:34:52.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Terminal.h",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Terminal.h",
+              "RelativeDocumentMoniker": "Terminal.h",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Terminal.h",
+              "RelativeToolTip": "Terminal.h",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAowAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-09T02:43:48.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehiculoAereo.cpp",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\VehiculoAereo.cpp",
+              "RelativeDocumentMoniker": "VehiculoAereo.cpp",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\VehiculoAereo.cpp",
+              "RelativeToolTip": "VehiculoAereo.cpp",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:28:59.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Terminal.cpp",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Terminal.cpp",
+              "RelativeDocumentMoniker": "Terminal.cpp",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Terminal.cpp",
+              "RelativeToolTip": "Terminal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T02:45:29.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InformacionAvion.h",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\InformacionAvion.h",
+              "RelativeDocumentMoniker": "InformacionAvion.h",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\InformacionAvion.h",
+              "RelativeToolTip": "InformacionAvion.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T00:42:52.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enums.h",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Enums.h",
+              "RelativeDocumentMoniker": "Enums.h",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Enums.h",
+              "RelativeToolTip": "Enums.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:28:43.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T02:10:58.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Common.h",
+              "DocumentMoniker": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Common.h",
+              "RelativeDocumentMoniker": "Common.h",
+              "ToolTip": "C:\\UABC\\FIAD\\Cuarto_semestre\\ProyectoPOO\\TrafficAir\\Common.h",
+              "RelativeToolTip": "Common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T02:32:55.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
